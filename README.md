@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pradeep KN</h1>
 <h3 align="center">As an accomplished iOS Developer, I am Pradeep KN, renowned for my leadership, innovative approach, and mastery in crafting more than 25+ iOS applications. My career is distinguished by major in-house creation activities, where I've developed groundbreaking applications such as video editors and image editors, leveraging the power of AVFoundation frameworks. My unique expertise lies in Livestream development, characterised by a modular approach, allowing for the creation of reusable and scalable solutions, transforming complex features into plug-and-play components.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/KN-Pradeep/KN-Pradeep/assets/55530732/76216a44-c08e-4925-b9b1-3cc5e7c9b376">
+<img align="right" alt="coding" width="400" src="https://github.com/KN-Pradeep/KN-Pradeep/assets/55530732/95c39f87-9696-4dd8-8d45-f7b315fac2a9">
 
 - 🔭 I’m currently working on [Moj](https://github.com/ShareChat/moj-ios)
 
